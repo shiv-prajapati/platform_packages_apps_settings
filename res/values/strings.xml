@@ -13,6 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<<<<<<< HEAD
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Strings for Dialog yes button -->
     <string name="yes">"Yes"</string>
@@ -27,6 +28,23 @@
     <!-- Strings for Dialog allow button -->
     <string name="allow">Allow</string>
 =======
+=======
+<resources>
+
+    <string name="app_name">Themes</string>
+
+    <!-- Themable items -->
+    <string name="lock_screen">Lock wallpapers</string>
+    <string name="icons">Icons</string>
+    <string name="fonts">Fonts</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="boot_anims">Boot animations</string>
+    <string name="ringtones">Ringtones</string>
+    <string name="notifications">Notifications</string>
+    <string name="alarms">Alarms</string>
+    <string name="style">Style</string>
+
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
     <!-- Drawer items (some items in drawer are part of themeable items) -->
     <string name="theme_packs">Theme Packs</string>
     <string name="sounds">Sounds</string>
@@ -5999,5 +6017,8 @@
     </string-array>
 
     <string name="designed_for_cm11">Designed for CM11</string>
+<<<<<<< HEAD
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
+=======
 >>>>>>> a419dde... Themes: Port to CM12 [5/6]
 </resources>

@@ -45,11 +45,14 @@
         <attr name="icon" format="reference" />
         <attr name="fragmentName" format="string" />
         <attr name="components" format="string" />
+<<<<<<< HEAD
 >>>>>>> a419dde... Themes: Port to CM12 [5/6]
     </declare-styleable>
 
     <declare-styleable name="SetupWizardIllustration">
         <attr name="aspectRatio" format="float" />
+=======
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
     </declare-styleable>
 
     <declare-styleable name="BatteryHistoryChart">

@@ -237,5 +237,8 @@
     <dimen name="item_browse_height">260dp</dimen>
     <dimen name="drawer_item_height">48dp</dimen>
 
+<<<<<<< HEAD
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
+=======
 >>>>>>> a419dde... Themes: Port to CM12 [5/6]
 </resources>

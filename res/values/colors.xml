@@ -16,6 +16,7 @@
 
 <resources>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <color name="black">#000</color>
     <color name="red">#F00</color>
 
@@ -92,6 +93,8 @@
     <color name="exposed_data_warning_chart_labelcolor">#fff4511e</color>
     <color name="exposed_qs_tile_text">#de000000</color>
 =======
+=======
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
     <color name="detailedview_pager_background">#ffeeeeee</color>
     <color name="title_author_background">#ffffff</color>
     <color name="offwhite">#e9e8e8</color>
@@ -117,5 +120,8 @@
     <color name="drawer_item_default">#0288d1</color>
     <color name="drawer_item_pressed">#4FC3F7</color>
     <color name="drawer_divider_line">#ffffff</color>
+<<<<<<< HEAD
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
+=======
 >>>>>>> a419dde... Themes: Port to CM12 [5/6]
 </resources>
