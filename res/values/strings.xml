@@ -23,8 +23,18 @@
     <!-- Strings for Dialog create button -->
     <string name="create">Create</string>
 
+<<<<<<< HEAD
     <!-- Strings for Dialog allow button -->
     <string name="allow">Allow</string>
+=======
+    <!-- Drawer items (some items in drawer are part of themeable items) -->
+    <string name="theme_packs">Theme Packs</string>
+    <string name="sounds">Sounds</string>
+    <string name="lockscreen_wallpaper">Lock Wallpaper</string>
+
+    <string name="system_theme_name">System</string>
+    <string name="default_tag">(Default)</string>
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
 
     <!-- Strings for Dialog deny button -->
     <string name="deny">Deny</string>
@@ -5979,4 +5989,15 @@
    <!-- Message for encryption dialog telling the user that Talkback and other accessibility services will be disabled. -->
    <string name="encrypt_talkback_dialog_message_password">When you enter your password to start this device, accessibility services like <xliff:g id="service" example="TalkBack">%1$s</xliff:g> won\'t yet be available.</string>
 
+<<<<<<< HEAD
+=======
+    <!-- Themes Showcase Entry URLS. Change this array only if you also change the Entry Name -->
+    <string-array name="get_more_entry_urls" translatable="false">
+        <item>https://play.google.com/store/apps/details?id=com.cyngn.theme.store</item>
+        <item>https://play.google.com/store/search?q=theme+engine&amp;c=apps</item>
+        <item>http://wiki.cyanogenmod.org/w/Themes</item>
+    </string-array>
+
+    <string name="designed_for_cm11">Designed for CM11</string>
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
 </resources>

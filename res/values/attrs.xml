@@ -14,12 +14,38 @@
      limitations under the License.
 -->
 
+<<<<<<< HEAD
 <resources>
     <declare-styleable name="WifiEncryptionState">
         <attr name="state_encrypted" format="boolean" />
     </declare-styleable>
     <declare-styleable name="IconPreferenceScreen">
         <attr name="icon" format="reference" />
+=======
+    <!-- Attributes for Sliding Panel -->
+    <declare-styleable name="SlidingUpPanelLayout">
+        <attr name="collapsedHeight" format="dimension" />
+        <attr name="shadowHeight" format="dimension" />
+        <attr name="fadeColor" format="color" />
+        <attr name="flingVelocity" format="integer" />
+        <attr name="dragView" format="reference" />
+        <attr name="startExpanded" format="boolean" />
+        <attr name="anchorPoint" format="float" />
+        <attr name="parallaxDistance" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="Theme.ChooserBase">
+        <attr name="chooserListPreferredItemHeightSmall" format="dimension" />
+    </declare-styleable>
+
+    <!-- Attributes for Drawer List -->
+    <declare-styleable name="DrawerItem">
+        <attr name="id" format="reference" />
+        <attr name="title" format="string" />
+        <attr name="icon" format="reference" />
+        <attr name="fragmentName" format="string" />
+        <attr name="components" format="string" />
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
     </declare-styleable>
 
     <declare-styleable name="SetupWizardIllustration">

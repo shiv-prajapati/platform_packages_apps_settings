@@ -15,6 +15,7 @@
 -->
 
 <resources>
+<<<<<<< HEAD
     <dimen name="device_memory_usage_button_width">16dip</dimen>
     <dimen name="device_memory_usage_button_height">32dip</dimen>
     <dimen name="action_bar_switch_padding">16dip</dimen>
@@ -229,4 +230,12 @@
     <dimen name="qs_tile_max_size">120dp</dimen>
     <dimen name="qs_tile_max_padding">10dp</dimen>
     <dimen name="qs_tile_dragged_z">10dp</dimen>
+=======
+    <dimen name="app_icon_size">24dp</dimen>
+    <dimen name="button_bar_height">62dip</dimen>
+    <dimen name="sliding_up_panel_parallax_distance">150dp</dimen>
+    <dimen name="item_browse_height">260dp</dimen>
+    <dimen name="drawer_item_height">48dp</dimen>
+
+>>>>>>> a419dde... Themes: Port to CM12 [5/6]
 </resources>
