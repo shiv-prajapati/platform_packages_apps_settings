@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Build date -->
-    <string name="build_date">Purity build date</string>
+    <string name="build_date">Datum izrade Purity roma</string>
     <string name="build_date_default">2012-01-01-0000</string>
 
     <!-- Purity Settings -->
@@ -21,7 +21,7 @@
     <string name="status_bar_general_title">Općenito</string>
 
     <!-- Settings screens -->
-    <string name="system_settings_title">Uređaj</string>
+    <string name="system_settings_title">Postavke</string>
 
     <!-- Advanced reboot options -->
     <string name="advanced_reboot_title">Napredno ponovno pokretanje uređaja</string>
@@ -220,6 +220,10 @@
     <string name="recent_clear_all_button_location_top_right">Gore desno</string>
     <string name="recent_clear_all_button_location_bottom_left">Dolje lijevo</string>
     <string name="recent_clear_all_button_location_bottom_right">Dolje desno</string>
+ 
+    <!-- Notification ticker -->
+    <string name="status_bar_ticker_title">Animirana obavijest</string>
+    <string name="status_bar_ticker_summary">Prikaz teksta obavijesti u statusnoj traci</string>
 
     <!-- Enable power menu -->
     <string name="lockscreen_enable_power_menu_title">Omogući izbornik isključivanja</string>
@@ -467,6 +471,14 @@
     <string name="network_traffic_autohide_threshold">Limit neaktivnosti</string>
     <string name="status_bar_traffic_settings_summary">Omogući samo dok je sat na desnoj strani statusne trake</string>
 
+    <!-- Heads up -->
+	<string name="heads_up_notifications">Skočna obavijest</string>
+    <string name="summary_heads_up_enabled">Skočna obavijest omogućena</string>
+    <string name="summary_heads_up_disabled">Skočna obavijest onemogućena</string>
+	
+    <!-- Status bar battery style -->
+    <string name="status_bar_battery_style_circle_dotted">Točkasti krug</string>
+	
     <!-- SIM lock settings title  [CHAR LIMIT=40] -->
     <string name="sim_lock_settings_cm">Postavke zaključavanja SIM kartice</string>
     <!-- Security & location settings screen, setting option name  [CHAR LIMIT=40] -->
