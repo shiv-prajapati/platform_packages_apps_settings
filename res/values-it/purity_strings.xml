@@ -435,4 +435,11 @@
     <!-- Heads up -->
     <string name="summary_heads_up_enabled">Le notifiche pop-up sono attivate</string>
     <string name="summary_heads_up_disabled">Le notifiche pop-up sono disattivate</string>
+
+    <!-- Status bar battery style -->
+    <string name="status_bar_battery_style_circle_dotted">Cerchio (a punti)</string>
+
+   <!-- Notification ticker -->
+    <string name="status_bar_ticker_title">Notification Ticker</string>
+    <string name="status_bar_ticker_summary">Testo della notifica animato nella barra di stato.</string>
 </resources>
