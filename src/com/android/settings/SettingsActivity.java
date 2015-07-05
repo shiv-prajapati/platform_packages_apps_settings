@@ -89,6 +89,8 @@ import com.android.settings.wifi.AdvancedWifiSettings;
 import com.android.settings.wifi.SavedAccessPointsWifiSettings;
 import com.android.settings.wifi.WifiSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
+import com.android.settings.WifiCallingSettings;
+
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
@@ -281,6 +283,7 @@ public class SettingsActivity extends Activity
             OtherSoundSettings.class.getName(),
             QuickLaunchSettings.class.getName(),
             ApnSettings.class.getName(),
+            WifiCallingSettings.class.getName(),
             com.android.settings.purity.PrivacySettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName()
     };
