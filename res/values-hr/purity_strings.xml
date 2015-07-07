@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Build date -->
-    <string name="build_date">Datum izrade Purity roma</string>
+    <string name="build_date">Datum izrade sustava</string>
     <string name="build_date_default">2012-01-01-0000</string>
 
     <!-- Purity Settings -->
@@ -21,7 +21,7 @@
     <string name="status_bar_general_title">Općenito</string>
 
     <!-- Settings screens -->
-    <string name="system_settings_title">Postavke</string>
+    <string name="system_settings_title">Opcije</string>
 
     <!-- Advanced reboot options -->
     <string name="advanced_reboot_title">Napredno ponovno pokretanje uređaja</string>
