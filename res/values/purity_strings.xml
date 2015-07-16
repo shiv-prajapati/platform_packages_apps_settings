@@ -205,12 +205,14 @@
     <string name="qs_tile_display_rotation">Rotation</string>
     <string name="qs_tile_flashlight">Flashlight</string>
     <string name="qs_tile_location">Location</string>
+
     <string name="qs_tile_cast_screen">Cast screen</string>
     <string name="qs_tile_hotspot">Hotspot</string>
     <string name="qs_tile_nfc">NFC</string>
     <string name="qs_tile_lockscreen">Lockscreen</string>
     <string name="qs_tile_notifications">Sound</string>
     <string name="qs_tile_lte">LTE</string>
+    <string name="qs_screen_off_tile">Screen off</string>
     <string name="qs_expanded_desktop_tile">Expanded desktop</string>
     <string name="qs_tile_heads_up">Heads up</string>
 
